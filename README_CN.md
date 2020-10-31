@@ -1,4 +1,9 @@
 # FlycoTabLayout
+
+升级到android 10, sdk29.
+
+感谢原作者的分享。
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FlycoTabLayout-green.svg?style=true)](https://android-arsenal.com/details/1/2756)
 
 一个Android TabLayout库,目前有3个TabLayout
